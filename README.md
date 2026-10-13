@@ -22,6 +22,23 @@ real businesses and campus life, and digging into cybersecurity on the side.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Elastic](https://img.shields.io/badge/ELK_Stack-005571?style=flat&logo=elastic&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Windows Scripting](https://img.shields.io/badge/Windows_Scripting-0078D6?style=flat&logo=windowsterminal&logoColor=white)
+
+**Security:**
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat&logo=metasploit&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-D22128?style=flat&logo=ghidra&logoColor=white)
+![Binary Ninja](https://img.shields.io/badge/Binary_Ninja-1A1A1A?style=flat&logo=binaryninja&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat&logo=pfsense&logoColor=white)
+![Empire C2](https://img.shields.io/badge/Empire_C2-8B0000?style=flat&logo=hackthebox&logoColor=white)
+![Kerberos](https://img.shields.io/badge/Kerberos-5A5A5A?style=flat&logo=letsencrypt&logoColor=white)
+![SQL Injection](https://img.shields.io/badge/SQL_Injection-CC2927?style=flat&logo=databricks&logoColor=white)
+![Traffic Analysis](https://img.shields.io/badge/Traffic_Analysis-0A7E8C?style=flat&logo=cloudflare&logoColor=white)
+![Incident Response](https://img.shields.io/badge/Incident_Response-E65100?style=flat&logo=pagerduty&logoColor=white)
+![OSI Model](https://img.shields.io/badge/OSI_Model-6A1B9A?style=flat&logo=cisco&logoColor=white)
 
 ---
 
@@ -29,7 +46,7 @@ real businesses and campus life, and digging into cybersecurity on the side.
 
 - **[Featured Projects](#featured-projects)** — the best first clicks.
 - **[Client & campus websites](#client--campus-websites)** — sites built for real businesses and Stevens orgs.
-- **[Security](#security)** — honeypots, attack analysis, and hackfest work.
+- **[Security](#security)** — honeypots, attack analysis, reverse engineering, and hackfest work.
 - **[Experiments](#experiments)** — smaller apps and learning projects.
 
 ---
