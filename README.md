@@ -55,6 +55,9 @@ real businesses and campus life, and digging into cybersecurity on the side.
 
 The best starting points if you want to see the shape of the work.
 
+- 🗺️ **[Repo Maps](https://brianjdope.github.io/repo-maps/)** — Static HTML
+  codebase maps of my projects for humans and coding agents, with key files,
+  risk areas, and real snippets.
 - 🏋️ **[DSE Gym Tracker](https://github.com/Brianjdope/dse-gym)** — Real-time
   gym availability tracker for Stevens Institute of Technology (React + Vite).
 - 🍯 **[Honeypot Deployment & T-Pot Analysis](https://github.com/Brianjdope/Honeypot-Deployment-TPOT-Analysis)** —
@@ -88,6 +91,9 @@ The best starting points if you want to see the shape of the work.
 
 ### Experiments
 
+- 🗺️ **[Repo Maps](https://brianjdope.github.io/repo-maps/)** — Codebase maps of
+  my projects for humans and coding agents, with key files,
+  risk areas, and real snippets.
 - 🤝 **[UserMatch](https://github.com/Brianjdope/UserMatch)** — User matching web app
   built with React and a Node backend.
 - 🏦 **[BankAccount](https://github.com/Brianjdope/BankAccount-)** — Full-stack
